@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Tarif_ImportExport", "Tarif_ImportExport\Tarif_ImportExport.dtproj", "{9AE9055F-8FE2-49B2-89BB-87874FAA6A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE9055F-8FE2-49B2-89BB-87874FAA6A4C}.Development|Default.ActiveCfg = Development
+		{9AE9055F-8FE2-49B2-89BB-87874FAA6A4C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845A37F8-F54E-4299-B190-D6DB31A6BC6D}
+	EndGlobalSection
+EndGlobal
